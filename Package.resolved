@@ -11,6 +11,24 @@
         }
       },
       {
+        "package": "FuturaAsync",
+        "repositoryURL": "https://github.com/kaqu/FuturaAsync.git",
+        "state": {
+          "branch": null,
+          "revision": "543c45311dbaaefafb739a20caea68cf2cbdec57",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "FuturaLog",
+        "repositoryURL": "https://github.com/kaqu/FuturaLog.git",
+        "state": {
+          "branch": null,
+          "revision": "349c53dc57234a8f9bf2d26a895571fc0f010fa5",
+          "version": "0.6.0"
+        }
+      },
+      {
         "package": "Vapor",
         "repositoryURL": "https://github.com/vapor/vapor.git",
         "state": {
